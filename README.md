@@ -45,6 +45,6 @@
 
 - Long term solution would probably be to incorporate all worker thread login to other files, just like the way the generateNewWorker logic is currently set up.
 
-- Files Changed:
-
+### Files Changed:
     index.js
+    
