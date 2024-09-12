@@ -1,4 +1,4 @@
-# American Express Backend Coding Challenge
+# American Express Backend Coding Challenge - Eric Perez
 
 ## Task 1
 
